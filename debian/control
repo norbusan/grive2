@@ -10,10 +10,9 @@ Package: grive
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: Grive2: an open source Linux client for Google Drive
- .
- This is the up-to-date fork of the original "Grive" (https://github.com/Grive/grive) 
- Google Drive client with the support for the new Drive REST API and partial 
- sync.
+ This is the up-to-date fork of the original "Grive" 
+ (https://github.com/Grive/grive) Google Drive client with the support for
+ the new Drive REST API and partial sync.
  .
  For the first time running grive, you should use the "-a" argument to grant
  permission to grive to access to your Google Drive. An URL should be printed.
